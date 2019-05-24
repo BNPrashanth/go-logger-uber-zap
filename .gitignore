@@ -13,3 +13,4 @@
 
 vendor/
 config.yml
+output/logger.log
