@@ -1,3 +1,3 @@
-# go-logger-uber-zap
+# GO-LOGGER-UBER-ZAP
 
-A professional logger for go using Uber-Zap (https://github.com/uber-go/zap)
+An example implementation of a professional logger for go using Uber's Zap: GO Logging Library (https://github.com/uber-go/zap)
